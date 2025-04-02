@@ -1,2 +1,5 @@
 # The-Effects-Of-Tariff-Risk-On-Financial-Markets
-This work uses a heteroskedasticity based estimation approach to identify the effects of tariff  risk on U.S. Financial markets and the Forex Market.
+
+This work uses a heteroskedasticity based estimation approach to identify the effects of tariff risk on U.S. Financial markets and the Forex Market. The “Tariff Risk” factor accounted for a considerable portion of the total variance in the S&P500 and XLY ETF.
+
+Results: An increase in the risk of tariff/ implementation of tariffs which leads to a shock of 60 bp in the high-yield spread results in a drop of 13.36 % in the S&P 500 and a drop of 14.68% in the XLY (consumer discretionary ETF) and a significant part of the historical variance has been explained by the tariff-risks.  Furthermore, it results in a stronger dollar (+26.83%) and weaker Canadian dollar (-7.45%) and Chinese Yuan (-2.62%), rising gold prices (+23.37%) and falling oil prices (-$14.62). The results also suggest a bull steepener where the 2-year yield falls much faster than the 10-year yield which could be pointing to the longer-term benefits of tariffs, but the results are not very significant because only 5% of the variance could be explained by tariff-risk.
